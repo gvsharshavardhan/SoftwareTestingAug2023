@@ -1,0 +1,23 @@
+shortcuts:
+------------
+
+ctrl + d -> duplicate line
+ctrl + y -> delete line
+
+
+
+Access Specifiers / modifiers:
+-------------------------------
+
+Public : anywhere within the project
+protected : anywhere within the pkg + within the inheritance relationship
+default: anywhere within the pkg
+private : within the class
+
+public > protected > default > private
+
+
+1. open db
+2. perform operations on db // exception
+3. close db
+
