@@ -21,3 +21,22 @@ public > protected > default > private
 2. perform operations on db // exception
 3. close db
 
+
+Selenium:
+------------
+1. Tool to automate web browsers.
+
+
+1. manual testing
+
+Execute written tc's
+
+2. java
+3. coding skills
+4. selenium
+5. master locator
+6. creating logical automation flow
+7. understand the framework, enhance
+
+8. framework
+
