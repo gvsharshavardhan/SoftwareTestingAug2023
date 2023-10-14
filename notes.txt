@@ -40,3 +40,21 @@ Execute written tc's
 
 8. framework
 
+
+Waits:
+----------
+1. Thread.sleep()
+    1. hard stop
+
+2. implicit
+    1. driver level wait - 60
+
+
+alert 1 -> 3 sec
+alert 2 -> 7 sec -> 8
+alert 3 -> 12 sec
+
+3. Explicit - webelement level,
+son - curry is well cooked, redish color (10 min ) - 500millisec
+
+4. fluent - polling time , 30sec
